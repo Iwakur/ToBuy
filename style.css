@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black ;
+    color:  white;
+    font-size: 20px;
+}
+a:link {
+    color: bisque;
+}
+a:visited {
+    color: antiquewhite;
+}
+a:hover {
+    color: cyan;
+}
+
+
+header{
+    text-align: center;
+    background-color: blue;
+    padding: 10px;
+    font-size: 25px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    border: 1px solid white;
+
+}
