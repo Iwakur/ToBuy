@@ -21,8 +21,14 @@ header{
     padding: 10px;
     font-size: 25px;
 }
-
+caption{
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
 table{
+
     border-collapse: collapse;
     width: 100%;
     text-align: center;
