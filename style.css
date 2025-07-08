@@ -35,3 +35,7 @@ table{
     border: 1px solid white;
 
 }
+td,th{
+    border: 1px dotted white;
+    padding: 15px;
+}
